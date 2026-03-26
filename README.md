@@ -1,4 +1,4 @@
-# PetShop API - Sistema de gerenciamento 
+# FastAPI-CRUD-Pets
 
 ## Tecnologias utilizadas:
 
